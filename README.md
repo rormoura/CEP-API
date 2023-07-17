@@ -45,6 +45,6 @@ Now that everything needed is installed, in order to run the server, use the fol
 $ node index.js
 ```
 
-Finally, open the `index.html` fil, which is insidein your browser and you should be able to use the CEP API.
+Finally, open the `index.html` file in your browser and you should be able to use the CEP API.
 
 Stop server using <kbd>Ctrl</kbd>+<kbd>C</kbd>
